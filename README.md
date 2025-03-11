@@ -1,4 +1,4 @@
-# Maze-Solver
+# Maze-Solver Using Genetic Algorithms
 This project utilizes a Genetic Algorithm, a search heuristic inspired by natural selection, to solve a maze. The algorithm evolves a population of potential solutions (paths) over generations, gradually improving their ability to navigate the maze and reach the goal.
 
 How it Works
